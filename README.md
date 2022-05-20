@@ -22,8 +22,9 @@
 </samp>
 </div>
 <div align="center">
-  <img width="350rem"; height="auto" src="./assets/img/turn-magic-wheel.gif"/>
-    <img width="350rem"; height="auto" src="./assets/img/mez.gif"/>
+  <!-- <img width="350rem"; height="auto" src="./assets/img/turn-magic-wheel.gif"/>
+    <img width="350rem"; height="auto" src="./assets/img/mez.gif"/> -->
+        <img width="350rem"; height="auto" src="./assets/img/mez1.gif"/>
   </div>
 <details align="center">
 <summary>🔬 <strong>my skillset</strong></summary>
