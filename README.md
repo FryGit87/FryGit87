@@ -1,6 +1,6 @@
 <div align="center">
   <img width="200rem"; height="auto" src="./assets/img/dancing stick.gif"/>
-  <h1>Hi, I'm Kym Reilly</h1>
+  <h1>Hi <img height="30px"src="./assets/img/hand.gif"/> <br> I'm Kym Reilly</h1>
   <h3>An aspiring Full Stack Developer and a student from Australia.</h3>
 </div>
 
